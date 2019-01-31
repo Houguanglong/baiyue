@@ -1,0 +1,14 @@
+{
+    "name": "houguang/phpexecl",
+    "description": "php execl",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "houguang",
+            "email": "369380397@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
